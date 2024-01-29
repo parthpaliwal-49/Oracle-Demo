@@ -52,3 +52,5 @@ jupyter notebook
 #### Step 2: Open the Notebook
 Navigate to the notebook file (`sales_forecasting_demo.ipynb`) in your browser and open it using Jupyter Notebook.
 
+#### Step 3: Run the Notebook
+You can simply run the cells in the notebook see the procedure for sales forecasting.
