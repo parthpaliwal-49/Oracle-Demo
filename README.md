@@ -22,9 +22,6 @@ Download the data archive (`data.zip`) from the repository.
 #### Step 3: Unzip the Data
 Extract the contents of the data archive to a folder in the project directory.
 
-```bash
-unzip <data.zip> -d data/
-```
 
 #### Step 4: Set up Virtual Environment (Optional)
 
