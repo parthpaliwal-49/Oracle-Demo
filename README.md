@@ -54,5 +54,4 @@ jupyter notebook
 
 #### Step 2: Open the Notebook
 Navigate to the notebook file (`sales_forecasting_demo.ipynb`) in your browser and open it using Jupyter Notebook.
-
 ```
